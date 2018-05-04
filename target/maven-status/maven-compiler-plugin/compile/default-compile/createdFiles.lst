@@ -1,0 +1,4 @@
+com\sbscratch\sbscratch\MvcConfig.class
+com\sbscratch\sbscratch\WebSecurityConfig.class
+com\sbscratch\sbscratch\ScratchController.class
+com\sbscratch\sbscratch\SbScratchApplication.class
